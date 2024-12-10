@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
 
-### <div align="center">I'm JinTai, a dedicated full-stack freelancer 👨‍💻, thriving in the world of remote work 🚀.</div>
+### <div align="center">I'm a dedicated full-stack freelancer 👨‍💻, thriving in the world of remote work 🚀.</div>
 
 <br/>
 
